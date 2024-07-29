@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://bento.me/tripathinikhil)
 
-<h1 align="center">Hi 👋, I'm Nikhil Triapthi</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Tripathi</h1>
 <h3 align="center">Final Year Student of Computer Science & Engineering | Aspiring Software Engineer</h3>
 <img align ="right" alt = "Coding" width = "400" src= "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
